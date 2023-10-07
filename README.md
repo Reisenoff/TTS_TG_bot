@@ -26,7 +26,7 @@
 
 - Python 3.11
 - Библиотека OpenAI Whisper
-    (Инструкция установки)[https://github.com/openai/whisper/blob/main/README.md#setup] 
+    [Инструкция установки](https://github.com/openai/whisper/blob/main/README.md)
 - Библиотека telebot
 - Библиотека pyttsx3
 - Библиотека deep_translator
