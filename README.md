@@ -43,7 +43,7 @@ pip install deep-translator
 - Доступ к API Telegram (токен Telegram Bot)
 
 ## Пример работы бота
-![Alt text](https://prnt.sc/vT4v_i_FkI_8)
+![PreView](https://github.com/Reisenoff/TTS_TG_bot/blob/main/PreView.png)
 
 ## Запуск программы
 
