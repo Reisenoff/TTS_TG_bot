@@ -25,6 +25,7 @@
 Для успешного запуска этой программы, убедитесь, что у вас установлены следующие зависимости:
 
 - Python 3.11
+    [Установка с оффициального сайта](https://www.python.org/downloads/release/python-3116/)  
 - Библиотека OpenAI Whisper
     [Инструкция установки](https://github.com/openai/whisper/blob/main/README.md)
 - Библиотека telebot
