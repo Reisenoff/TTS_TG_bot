@@ -28,8 +28,17 @@
 - Библиотека OpenAI Whisper
     [Инструкция установки](https://github.com/openai/whisper/blob/main/README.md)
 - Библиотека telebot
+```
+pip install pyTelegramBotAPI
+```
 - Библиотека pyttsx3
+```
+pip install pyttsx3
+```
 - Библиотека deep_translator
+```
+pip install deep-translator
+```
 - Доступ к API Telegram (токен Telegram Bot)
 
 ## Запуск программы
