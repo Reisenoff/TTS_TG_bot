@@ -1,6 +1,4 @@
 """
-Выполнил: Быстров Г.О. (ПИ22-1В)
-
 Этот бот предназначен для обработки голосовых сообщений, их расшифровки и перевода текста
 на различные языки. Бот поддерживает следующие функции:
 
@@ -22,7 +20,7 @@ import whisper
 import pyttsx3
 from deep_translator import GoogleTranslator
 
-TOKEN = "6467553577:AAGyoOlnvRwzGZBJ6J8N9nLsG2k5uUOXtpI"
+TOKEN = "<YOUR_TOKEN>"
 
 # Инициализация бота
 bot = telebot.TeleBot(TOKEN)
