@@ -41,6 +41,12 @@ def start_message(message):
     просит отправить голосовое сообщение.
     """
     bot.send_message(message.chat.id, 'Отправьте голосовое сообщение')
+    
+    if not os.path.exists("voice_messages"):
+        os.makedirs("voice_messages")
+
+    if not os.path.exists("synthesized_messages"):
+        os.makedirs("synthesized_messages")
 
 
 @bot.message_handler(content_types=['voice'])
