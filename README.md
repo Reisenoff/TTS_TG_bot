@@ -24,8 +24,11 @@
 
 Для успешного запуска этой программы, убедитесь, что у вас установлены следующие зависимости:
 
-- Python 3.x
+- Python 3.11
 - Библиотека telebot
+  ```
+  pip install pyTelegramBotAPI
+  ```
 - Библиотека whisper
 - Библиотека pyttsx3
 - Библиотека deep_translator
