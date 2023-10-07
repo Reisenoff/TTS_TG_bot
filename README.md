@@ -42,6 +42,9 @@ pip install deep-translator
 ```
 - Доступ к API Telegram (токен Telegram Bot)
 
+## Пример работы бота
+![Alt text](https://prnt.sc/vT4v_i_FkI_8)
+
 ## Запуск программы
 
 1. Зарегистрируйте бота в Telegram и получите токен.
