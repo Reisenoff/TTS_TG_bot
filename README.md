@@ -25,11 +25,9 @@
 Для успешного запуска этой программы, убедитесь, что у вас установлены следующие зависимости:
 
 - Python 3.11
+- Библиотека OpenAI Whisper
+    (Инструкция установки)[https://github.com/openai/whisper/blob/main/README.md#setup] 
 - Библиотека telebot
-  ```
-  pip install pyTelegramBotAPI
-  ```
-- Библиотека whisper
 - Библиотека pyttsx3
 - Библиотека deep_translator
 - Доступ к API Telegram (токен Telegram Bot)
